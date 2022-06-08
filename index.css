@@ -1,0 +1,28 @@
+body{
+    align-items:center;
+    margin-left:30%;
+}
+
+
+span {
+    
+    text-decoration: underline;
+    color: green;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    margin: 10px;
+    width: 100px;
+    color: green;
+    border-color: aliceblue;
+    background-color: black;
+}
+
+.container{
+    text-align: center;
+    padding: 30px;
+    width: fit-content;
+    background-color:black;
+}
